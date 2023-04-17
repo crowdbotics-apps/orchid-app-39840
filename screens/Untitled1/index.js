@@ -84,12 +84,12 @@ const styles = StyleSheet.create({
   },
   jTBlGMms: {
     height: 45,
-    width: 266,
+    width: 293,
     backgroundColor: "#000",
     borderRadius: 6,
     color: "#777777",
     position: "absolute",
-    left: 46.5,
+    left: 30,
     top: 419
   },
   aYnoTTvO: {
@@ -102,21 +102,22 @@ const styles = StyleSheet.create({
     color: "#fff",
     fontWeight: "700",
     position: "absolute",
-    top: 14.5
+    top: 14.5,
+    left: 13.5
   },
   JzUBaTwa: {
     height: 45,
-    width: 266,
+    width: 290,
     backgroundColor: "#fff",
     borderRadius: 6,
     color: "#777777",
     position: "absolute",
-    left: 47,
+    left: 33,
     top: 493,
     borderWidth: 1
   },
   jMmJBOxM: {
-    width: 266,
+    width: 249,
     height: 16,
     lineHeight: 14,
     fontSize: 16,
@@ -125,7 +126,8 @@ const styles = StyleSheet.create({
     color: "#000",
     fontWeight: "700",
     position: "absolute",
-    top: 14.5
+    top: 15,
+    left: 20.5
   }
 });
 export default Untitled1;
